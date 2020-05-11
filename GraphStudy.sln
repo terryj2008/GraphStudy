@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphStudy.Api", "GraphStudy.Api\GraphStudy.Api.csproj", "{1C43470C-38EC-4974-B9C9-BAFC7A977E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphStudy.Movies", "GraphStudy.Movie\GraphStudy.Movies.csproj", "{37EF59FD-EFED-4E1C-ACA9-0620EF998742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C43470C-38EC-4974-B9C9-BAFC7A977E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C43470C-38EC-4974-B9C9-BAFC7A977E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C43470C-38EC-4974-B9C9-BAFC7A977E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C43470C-38EC-4974-B9C9-BAFC7A977E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37EF59FD-EFED-4E1C-ACA9-0620EF998742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EF59FD-EFED-4E1C-ACA9-0620EF998742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EF59FD-EFED-4E1C-ACA9-0620EF998742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EF59FD-EFED-4E1C-ACA9-0620EF998742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7454BAE1-4AF2-4F27-9CA3-1766A53F9CB4}
+	EndGlobalSection
+EndGlobal
